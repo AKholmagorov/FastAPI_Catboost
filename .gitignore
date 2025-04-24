@@ -1,0 +1,8 @@
+logs/
+
+__pycache__/
+app/__pycache__/
+app/utils/__pycache__/
+
+.idea/
+.vscode/
